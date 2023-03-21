@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![M1ddl3w4r3's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1ddl3w4r3&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1ddl3w4r3&layout=compact)](https://github.com/m1ddl3w4r3/github-readme-stats)
+
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 <!--
 **m1ddl3w4r3/m1ddl3w4r3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
