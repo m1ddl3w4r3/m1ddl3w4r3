@@ -13,28 +13,18 @@
 
 ---
 
-### 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  <!-- Add more badges as needed -->
-</p>
-
----
-
 ### 👤 About Me
 - 🔭 I'm currently working on: **Security tools & automation**
 - 🌱 I'm currently learning: **Cloud Security, Advanced Go**
 - 👯 I'm looking to collaborate on: **Open-source security projects**
-- 💬 Ask me about: **PowerShell, Go, .NET, Cybersecurity**
+- 💬 Ask me about: **RF Hacking, Covert/Overt Entry Techniques, or Red Team activities, Cybersecurity**
 - ⚡ Fun fact: _"There are 10 types of people in the world: those who understand binary and those who don't."_
 
 ---
 
 ### 📫 Connect with Me
 <p>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:anonymousperp@protonmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=proton&logoColor=white"/></a>
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <!-- Add more social links as needed -->
 </p>
