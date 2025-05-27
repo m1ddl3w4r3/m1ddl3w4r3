@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there, I'm <a href="https://github.com/m1ddl3w4r3" target="_blank">m1ddl3w4r3</a> 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADD8&center=true&vCenter=true&width=435&lines=Red+Team;RF+%7C+Covert+Entry+%7C+Breacher"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Red+Team;RF+%7C+Covert+Entry+%7C+Breacher"/>
 </p>
 
 ---
