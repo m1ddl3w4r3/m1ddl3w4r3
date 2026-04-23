@@ -11,6 +11,7 @@
 
 ## Contributions to Other Projects
 Here are some projects I've contributed to:
+- [MachJacker](https://github.com/UnsaltedHash42/machJacker): A modern process injection tool for macOS 
 - [RedTeam-Physical-Tools](https://github.com/DavidProbinsky/RedTeam-Physical-Tools): Laundry List of Physical Red Team Tools used by practitioners.
 - [WifiShark](https://github.com/m1ddl3w4r3/wifishark): Red Team Wifi Wireshark profile
 
