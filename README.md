@@ -9,16 +9,15 @@
 ## My Links
 [NemesisGroupLLC](https://nemesisgroup.net)
 
-## Contributions to Other Projects
-Here are some projects I've contributed to:
-- [MachJacker](https://github.com/UnsaltedHash42/machJacker): A modern process injection tool for macOS 
-- [RedTeam-Physical-Tools](https://github.com/DavidProbinsky/RedTeam-Physical-Tools): Laundry List of Physical Red Team Tools used by practitioners.
-- [WifiShark](https://github.com/m1ddl3w4r3/wifishark): Red Team Wifi Wireshark profile
-
-<!-- Additional interesting sections -->
 ## Featured Projects
 Here are some of my favorite projects:
 - [KISS](https://github.com/m1ddl3w4r3/KISS): Kali linux setup script.
 - [WSL_Payload_Builder](https://github.com/m1ddl3w34r3/WSL_Payload_Builder): Build WSL Payloads.
 - [ExecRemoteNET](https://github.com/m1ddl3w4r3/ExecRemoteNET): Remote Assembly execution with amsi and etw patching.
 - [RemotePE](https://github.com/m1ddl3w4r3/RemotePE): Fileless remote PE from URI.
+
+## Contributions to Other Projects
+Here are some projects I've contributed to:
+- [MachJacker](https://github.com/UnsaltedHash42/machJacker): A modern process injection tool for macOS 
+- [RedTeam-Physical-Tools](https://github.com/DavidProbinsky/RedTeam-Physical-Tools): Laundry List of Physical Red Team Tools used by practitioners.
+- [WifiShark](https://github.com/m1ddl3w4r3/wifishark): Red Team Wifi Wireshark profile
