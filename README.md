@@ -18,6 +18,7 @@ Here are some of my favorite projects:
 
 ## Contributions to Other Projects
 Here are some projects I've contributed to:
+- [GasCity](https://github.com/gastownhall/gascity): Gas City is an orchestration-builder SDK for multi-agent systems. 
 - [MachJacker](https://github.com/UnsaltedHash42/machJacker): A modern process injection tool for macOS 
 - [RedTeam-Physical-Tools](https://github.com/DavidProbinsky/RedTeam-Physical-Tools): Laundry List of Physical Red Team Tools used by practitioners.
 - [WifiShark](https://github.com/m1ddl3w4r3/wifishark): Red Team Wifi Wireshark profile
