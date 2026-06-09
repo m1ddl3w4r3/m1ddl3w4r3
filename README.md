@@ -11,6 +11,7 @@
 
 ## Featured Projects
 Here are some of my favorite projects:
+- [H31d3nt0r](https://github.com/N3m3s1sGr0up/H31d3nt0r): Custom API Gateway for Cursor Integrations. 
 - [KISS](https://github.com/m1ddl3w4r3/KISS): Kali linux setup script.
 - [WSL_Payload_Builder](https://github.com/m1ddl3w34r3/WSL_Payload_Builder): Build WSL Payloads.
 - [ExecRemoteNET](https://github.com/m1ddl3w4r3/ExecRemoteNET): Remote Assembly execution with amsi and etw patching.
